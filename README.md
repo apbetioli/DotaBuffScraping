@@ -1,8 +1,11 @@
 # DotaBuffScraping
+
 NodeJS code for DotaBuff scraping
 
-To run:
+## Run
 
+```
 npm install
-
 node scrap.js
+node matches.js
+```
