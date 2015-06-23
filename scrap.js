@@ -48,7 +48,7 @@ x('http://dotabuff.com/heroes', '.hero-grid a', [{
 			}
 			
 			var json = JSON.stringify(map.get(name), null, 4);
-			fs.writeFile('heroes/' + name + '.json', json, function(err) {
+			fs.writeFile('data/heroes/' + name + '.json', json, function(err) {
 			    handle(err);
 			    console.log(name + ' Finished!');
 			}); 
