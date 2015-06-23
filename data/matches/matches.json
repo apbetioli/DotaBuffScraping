@@ -1,804 +1,804 @@
 [
 
   {
-    "match": "1577383671",
-    "team": "Dire Victory",
+    "match": "1577406618",
+    "team": "Radiant Victory",
     "heroes": [
-      "Spirit Breaker",
       "Luna",
-      "Ember Spirit",
-      "Bounty Hunter",
-      "Weaver",
-      "Lifestealer",
-      "Pugna",
-      "Tiny",
-      "Lina",
-      "Pudge"
-    ]
-  },
-  {
-    "match": "1577383432",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Troll Warlord",
-      "Shadow Shaman",
-      "Bloodseeker",
-      "Razor",
-      "Bane",
-      "Silencer",
-      "Centaur Warrunner",
-      "Oracle",
-      "Magnus",
-      "Phantom Assassin"
-    ]
-  },
-  {
-    "match": "1577383365",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Sniper",
-      "Bounty Hunter",
-      "Bristleback",
-      "Elder Titan",
-      "Weaver",
-      "Phoenix",
-      "Outworld Devourer",
-      "Phantom Lancer",
-      "Lina",
-      "Morphling"
-    ]
-  },
-  {
-    "match": "1577383352",
-    "team": "Dire Victory",
-    "heroes": [
+      "Omniknight",
+      "Sven",
       "Wraith King",
-      "Mirana",
-      "Sniper",
-      "Chaos Knight",
-      "Weaver",
-      "Undying",
-      "Vengeful Spirit",
-      "Drow Ranger",
-      "Windranger",
-      "Jakiro"
-    ]
-  },
-  {
-    "match": "1577383277",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Crystal Maiden",
-      "Chen",
-      "Zeus",
-      "Lina",
-      "Faceless Void",
-      "Sven",
       "Disruptor",
-      "Winter Wyvern",
-      "Invoker",
-      "Techies"
-    ]
-  },
-  {
-    "match": "1577382915",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Crystal Maiden",
-      "Phoenix",
-      "Drow Ranger",
-      "Enigma",
-      "Bounty Hunter",
-      "Riki",
-      "Windranger",
-      "Ursa",
-      "Lifestealer",
-      "Razor"
-    ]
-  },
-  {
-    "match": "1577382820",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Bounty Hunter",
-      "Windranger",
-      "Pudge",
-      "Sven",
-      "Legion Commander",
-      "Queen of Pain",
-      "Spectre",
-      "Beastmaster",
-      "Ancient Apparition",
-      "Tusk"
-    ]
-  },
-  {
-    "match": "1577382573",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Meepo",
-      "Bloodseeker",
+      "Phantom Lancer",
       "Slark",
-      "Phantom Assassin",
-      "Shadow Fiend",
-      "Riki",
-      "Juggernaut",
-      "Winter Wyvern",
-      "Zeus",
-      "Anti-Mage"
-    ]
-  },
-  {
-    "match": "1577382211",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Treant Protector",
-      "Bounty Hunter",
-      "Phantom Assassin",
-      "Gyrocopter",
-      "Death Prophet",
-      "Witch Doctor",
-      "Ancient Apparition",
-      "Shadow Shaman",
-      "Sand King",
-      "Broodmother"
-    ]
-  },
-  {
-    "match": "1577382140",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Alchemist",
-      "Pudge",
-      "Warlock",
-      "Shadow Fiend",
-      "Lion",
-      "Meepo",
-      "Rubick",
-      "Phoenix",
-      "Winter Wyvern",
-      "Puck"
-    ]
-  },
-  {
-    "match": "1577382097",
-    "team": "Dire Victory",
-    "heroes": [
-      "Undying",
-      "Alchemist",
-      "Magnus",
-      "Storm Spirit",
-      "Leshrac",
-      "Disruptor",
-      "Spectre",
-      "Bloodseeker",
-      "Shadow Fiend",
+      "Pugna",
+      "Jakiro",
       "Windranger"
     ]
   },
   {
-    "match": "1577381704",
-    "team": "Radiant Victory",
+    "match": "1577405006",
+    "team": "Dire Victory",
     "heroes": [
-      "Bane",
-      "Leshrac",
-      "Drow Ranger",
-      "Beastmaster",
-      "Sven",
-      "Juggernaut",
-      "Dragon Knight",
+      "Timbersaw",
       "Troll Warlord",
-      "Riki",
-      "Legion Commander"
-    ]
-  },
-  {
-    "match": "1577381664",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Crystal Maiden",
-      "Phantom Assassin",
-      "Queen of Pain",
-      "Mirana",
-      "Chen",
-      "Zeus",
-      "Invoker",
-      "Doom",
-      "Shadow Fiend",
-      "Techies"
-    ]
-  },
-  {
-    "match": "1577381648",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Razor",
-      "Vengeful Spirit",
-      "Sand King",
-      "Ursa",
-      "Earthshaker",
-      "Queen of Pain",
-      "Doom",
-      "Faceless Void",
-      "Necrophos",
-      "Shadow Fiend"
-    ]
-  },
-  {
-    "match": "1577381638",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Slark",
-      "Lich",
-      "Necrophos",
-      "Pudge",
-      "Dragon Knight",
-      "Earth Spirit",
-      "Invoker",
-      "Omniknight",
-      "Elder Titan",
-      "Faceless Void"
-    ]
-  },
-  {
-    "match": "1577381521",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Sniper",
-      "Drow Ranger",
-      "Juggernaut",
-      "Shadow Fiend",
-      "Faceless Void",
-      "Slark",
-      "Pudge",
-      "Tinker",
-      "Bounty Hunter",
-      "Troll Warlord"
-    ]
-  },
-  {
-    "match": "1577381417",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Mirana",
-      "Phantom Assassin",
-      "Drow Ranger",
-      "Necrophos",
-      "Pudge",
-      "Rubick",
-      "Riki",
-      "Shadow Fiend",
-      "Naga Siren",
-      "Dragon Knight"
-    ]
-  },
-  {
-    "match": "1577381081",
-    "team": "Dire Victory",
-    "heroes": [
-      "Juggernaut",
-      "Gyrocopter",
-      "Undying",
-      "Skywrath Mage",
-      "Luna",
       "Tiny",
-      "Lone Druid",
-      "Crystal Maiden",
-      "Shadow Fiend",
-      "Spirit Breaker"
-    ]
-  },
-  {
-    "match": "1577381046",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Riki",
-      "Necrophos",
-      "Axe",
-      "Rubick",
-      "Storm Spirit",
-      "Medusa",
-      "Bloodseeker",
-      "Legion Commander",
-      "Juggernaut",
-      "Troll Warlord"
-    ]
-  },
-  {
-    "match": "1577381037",
-    "team": "Dire Victory",
-    "heroes": [
-      "Silencer",
-      "Mirana",
-      "Slark",
-      "Pudge",
-      "Weaver",
-      "Venomancer",
-      "Undying",
-      "Oracle",
-      "Huskar",
-      "Phoenix"
-    ]
-  },
-  {
-    "match": "1577380734",
-    "team": "Dire Victory",
-    "heroes": [
-      "Centaur Warrunner",
-      "Keeper of the Light",
-      "Pudge",
-      "Spirit Breaker",
-      "Ancient Apparition",
-      "Omniknight",
-      "Crystal Maiden",
-      "Wraith King",
-      "Doom",
-      "Mirana"
-    ]
-  },
-  {
-    "match": "1577380729",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Legion Commander",
-      "Ogre Magi",
-      "Pudge",
-      "Dazzle",
+      "Dragon Knight",
+      "Sniper",
       "Phantom Lancer",
-      "Juggernaut",
-      "Puck",
       "Lina",
-      "Windranger",
-      "Bristleback"
-    ]
-  },
-  {
-    "match": "1577380676",
-    "team": "Dire Victory",
-    "heroes": [
-      "Invoker",
-      "Queen of Pain",
-      "Phantom Lancer",
-      "Ursa",
-      "Shadow Fiend",
-      "Juggernaut",
-      "Leshrac",
-      "Drow Ranger",
-      "Tiny",
-      "Omniknight"
-    ]
-  },
-  {
-    "match": "1577380419",
-    "team": "Dire Victory",
-    "heroes": [
-      "Phantom Lancer",
-      "Templar Assassin",
-      "Brewmaster",
-      "Invoker",
-      "Mirana",
+      "Gyrocopter",
       "Bloodseeker",
-      "Spirit Breaker",
-      "Warlock",
-      "Ursa",
-      "Disruptor"
-    ]
-  },
-  {
-    "match": "1577380369",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Lone Druid",
-      "Phantom Assassin",
-      "Juggernaut",
-      "Vengeful Spirit",
-      "Razor",
-      "Death Prophet",
-      "Huskar",
-      "Bounty Hunter",
-      "Witch Doctor",
-      "Riki"
-    ]
-  }
-,
-  {
-    "match": "1577395725",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Lifestealer",
-      "Juggernaut",
-      "Jakiro",
-      "Tidehunter",
-      "Magnus",
-      "Alchemist",
-      "Windranger",
-      "Treant Protector",
-      "Zeus",
-      "Witch Doctor"
-    ]
-  },
-  {
-    "match": "1577395516",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Windranger",
-      "Clinkz",
-      "Magnus",
-      "Bristleback",
-      "Sand King",
-      "Axe",
-      "Invoker",
-      "Witch Doctor",
-      "Troll Warlord",
-      "Abaddon"
-    ]
-  },
-  {
-    "match": "1577395116",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Windranger",
-      "Keeper of the Light",
-      "Centaur Warrunner",
-      "Phantom Lancer",
-      "Mirana",
-      "Silencer",
-      "Invoker",
-      "Outworld Devourer",
-      "Sand King",
-      "Alchemist"
-    ]
-  },
-  {
-    "match": "1577395042",
-    "team": "Dire Victory",
-    "heroes": [
-      "Kunkka",
-      "Ogre Magi",
-      "Rubick",
-      "Pugna",
-      "Disruptor",
-      "Leshrac",
-      "Templar Assassin",
-      "Gyrocopter",
-      "Luna",
-      "Death Prophet"
-    ]
-  },
-  {
-    "match": "1577394871",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Gyrocopter",
-      "Doom",
-      "Zeus",
-      "Legion Commander",
-      "Magnus",
-      "Enchantress",
-      "Chaos Knight",
-      "Bane",
-      "Templar Assassin",
-      "Death Prophet"
-    ]
-  },
-  {
-    "match": "1577394736",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Weaver",
-      "Drow Ranger",
-      "Phantom Assassin",
-      "Viper",
-      "Storm Spirit",
-      "Broodmother",
-      "Crystal Maiden",
-      "Templar Assassin",
-      "Clinkz",
-      "Shadow Fiend"
-    ]
-  },
-  {
-    "match": "1577394581",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Juggernaut",
-      "Razor",
-      "Sven",
-      "Zeus",
-      "Sniper",
-      "Bounty Hunter",
-      "Vengeful Spirit",
-      "Viper",
-      "Drow Ranger",
-      "Witch Doctor"
-    ]
-  },
-  {
-    "match": "1577394572",
-    "team": "Dire Victory",
-    "heroes": [
-      "Anti-Mage",
-      "Lion",
-      "Witch Doctor",
-      "Clinkz",
-      "Earthshaker",
-      "Lycan",
-      "Undying",
-      "Leshrac",
-      "Enigma",
-      "Elder Titan"
-    ]
-  },
-  {
-    "match": "1577394459",
-    "team": "Dire Victory",
-    "heroes": [
-      "Invoker",
-      "Axe",
-      "Enchantress",
-      "Lone Druid",
-      "Drow Ranger",
-      "Disruptor",
-      "Warlock",
-      "Shadow Fiend",
-      "Razor",
-      "Undying"
-    ]
-  },
-  {
-    "match": "1577394457",
-    "team": "Dire Victory",
-    "heroes": [
-      "Centaur Warrunner",
-      "Tiny",
-      "Zeus",
-      "Dazzle",
-      "Pudge",
-      "Juggernaut",
-      "Crystal Maiden",
-      "Sven",
-      "Legion Commander",
-      "Shadow Fiend"
-    ]
-  },
-  {
-    "match": "1577394425",
-    "team": "Dire Victory",
-    "heroes": [
-      "Lion",
-      "Magnus",
-      "Phantom Lancer",
-      "Leshrac",
-      "Techies",
-      "Luna",
-      "Outworld Devourer",
-      "Abaddon",
-      "Enigma",
-      "Axe"
-    ]
-  },
-  {
-    "match": "1577394363",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Nyx Assassin",
-      "Tiny",
-      "Queen of Pain",
-      "Venomancer",
-      "Crystal Maiden",
-      "Zeus",
-      "Chaos Knight",
-      "Bounty Hunter",
-      "Silencer",
-      "Lich"
-    ]
-  },
-  {
-    "match": "1577394328",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Bounty Hunter",
-      "Magnus",
-      "Tinker",
-      "Viper",
-      "Earthshaker",
-      "Phoenix",
-      "Rubick",
-      "Axe",
-      "Phantom Lancer",
-      "Troll Warlord"
-    ]
-  },
-  {
-    "match": "1577394314",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Drow Ranger",
-      "Legion Commander",
-      "Pugna",
-      "Queen of Pain",
-      "Ancient Apparition",
-      "Invoker",
-      "Centaur Warrunner",
-      "Phoenix",
-      "Naga Siren",
-      "Dark Seer"
-    ]
-  },
-  {
-    "match": "1577394211",
-    "team": "Dire Victory",
-    "heroes": [
-      "Viper",
-      "Juggernaut",
-      "Lion",
-      "Bounty Hunter",
-      "Razor",
-      "Tidehunter",
-      "Zeus",
-      "Drow Ranger",
-      "Windranger",
-      "Sniper"
-    ]
-  },
-  {
-    "match": "1577394210",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Bane",
-      "Drow Ranger",
-      "Omniknight",
-      "Lich",
-      "Tusk",
-      "Bounty Hunter",
-      "Disruptor",
-      "Luna",
-      "Nyx Assassin",
-      "Necrophos"
-    ]
-  },
-  {
-    "match": "1577394125",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Skywrath Mage",
-      "Drow Ranger",
-      "Windranger",
-      "Clockwerk",
-      "Dragon Knight",
-      "Brewmaster",
-      "Pudge",
-      "Legion Commander",
-      "Puck",
-      "Juggernaut"
-    ]
-  },
-  {
-    "match": "1577394092",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Winter Wyvern",
-      "Phantom Assassin",
-      "Slark",
-      "Earth Spirit",
-      "Techies",
-      "Viper",
-      "Sniper",
-      "Shadow Shaman",
-      "Pudge",
-      "Enigma"
-    ]
-  },
-  {
-    "match": "1577393943",
-    "team": "Dire Victory",
-    "heroes": [
-      "Warlock",
-      "Terrorblade",
-      "Lion",
-      "Juggernaut",
-      "Axe",
-      "Viper",
-      "Doom",
-      "Tidehunter",
-      "Bounty Hunter",
-      "Necrophos"
-    ]
-  },
-  {
-    "match": "1577393878",
-    "team": "Dire Victory",
-    "heroes": [
-      "Lion",
-      "Razor",
-      "Vengeful Spirit",
-      "Sniper",
-      "Viper",
-      "Sven",
-      "Drow Ranger",
-      "Wraith King",
-      "Bounty Hunter",
-      "Juggernaut"
-    ]
-  },
-  {
-    "match": "1577393868",
-    "team": "Radiant Victory",
-    "heroes": [
-      "Silencer",
-      "Pudge",
-      "Clinkz",
-      "Broodmother",
-      "Pugna",
-      "Invoker",
-      "Bounty Hunter",
-      "Venomancer",
-      "Faceless Void",
       "Phantom Assassin"
     ]
   },
   {
-    "match": "1577393751",
-    "team": "Radiant Victory",
+    "match": "1577404946",
+    "team": "Dire Victory",
     "heroes": [
-      "Vengeful Spirit",
-      "Lion",
-      "Doom",
-      "Bristleback",
+      "Riki",
+      "Juggernaut",
+      "Sniper",
+      "Sand King",
+      "Shadow Shaman",
+      "Batrider",
+      "Ursa",
       "Phantom Assassin",
-      "Legion Commander",
-      "Wraith King",
-      "Witch Doctor",
-      "Meepo",
-      "Crystal Maiden"
+      "Broodmother",
+      "Phoenix"
     ]
   },
   {
-    "match": "1577393668",
-    "team": "Radiant Victory",
+    "match": "1577404353",
+    "team": "Dire Victory",
     "heroes": [
       "Sven",
       "Spirit Breaker",
+      "Earthshaker",
+      "Sniper",
       "Lion",
-      "Axe",
+      "Zeus",
+      "Slark",
+      "Lifestealer",
+      "Pudge",
+      "Warlock"
+    ]
+  },
+  {
+    "match": "1577404044",
+    "team": "Dire Victory",
+    "heroes": [
+      "Shadow Fiend",
+      "Ember Spirit",
+      "Wraith King",
+      "Chaos Knight",
+      "Puck",
+      "Storm Spirit",
+      "Jakiro",
+      "Pugna",
+      "Nature's Prophet",
+      "Necrophos"
+    ]
+  },
+  {
+    "match": "1577403992",
+    "team": "Dire Victory",
+    "heroes": [
+      "Techies",
+      "Venomancer",
+      "Morphling",
+      "Troll Warlord",
+      "Sniper",
+      "Weaver",
+      "Pudge",
+      "Anti-Mage",
+      "Viper",
+      "Invoker"
+    ]
+  },
+  {
+    "match": "1577403495",
+    "team": "Dire Victory",
+    "heroes": [
+      "Magnus",
+      "Clinkz",
+      "Venomancer",
+      "Zeus",
+      "Shadow Fiend",
+      "Chaos Knight",
+      "Riki",
+      "Witch Doctor",
+      "Luna",
+      "Ursa"
+    ]
+  },
+  {
+    "match": "1577403310",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Lina",
+      "Slark",
+      "Pudge",
+      "Juggernaut",
+      "Dragon Knight",
+      "Phantom Assassin",
+      "Spectre",
+      "Viper",
+      "Centaur Warrunner",
+      "Pugna"
+    ]
+  },
+  {
+    "match": "1577403237",
+    "team": "Dire Victory",
+    "heroes": [
+      "Faceless Void",
+      "Enchantress",
+      "Techies",
+      "Riki",
+      "Pudge",
+      "Bloodseeker",
+      "Clockwerk",
+      "Lycan",
+      "Ursa",
+      "Bounty Hunter"
+    ]
+  },
+  {
+    "match": "1577403224",
+    "team": "Dire Victory",
+    "heroes": [
+      "Tusk",
+      "Sniper",
+      "Beastmaster",
+      "Abaddon",
+      "Doom",
+      "Visage",
+      "Pudge",
+      "Storm Spirit",
+      "Wraith King",
+      "Lich"
+    ]
+  },
+  {
+    "match": "1577403112",
+    "team": "Dire Victory",
+    "heroes": [
+      "Spirit Breaker",
+      "Sven",
+      "Medusa",
+      "Puck",
+      "Wraith King",
+      "Legion Commander",
+      "Batrider",
+      "Weaver",
+      "Dazzle",
+      "Ursa"
+    ]
+  },
+  {
+    "match": "1577402942",
+    "team": "Dire Victory",
+    "heroes": [
+      "Invoker",
+      "Gyrocopter",
+      "Faceless Void",
+      "Morphling",
+      "Silencer",
+      "Clockwerk",
+      "Omniknight",
+      "Meepo",
+      "Bristleback",
+      "Winter Wyvern"
+    ]
+  },
+  {
+    "match": "1577402789",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Vengeful Spirit",
+      "Leshrac",
+      "Legion Commander",
+      "Ogre Magi",
+      "Necrophos",
+      "Wraith King",
+      "Puck",
+      "Bane",
+      "Lifestealer",
+      "Nyx Assassin"
+    ]
+  },
+  {
+    "match": "1577402783",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Meepo",
+      "Dragon Knight",
+      "Razor",
+      "Silencer",
+      "Dazzle",
+      "Anti-Mage",
+      "Ursa",
+      "Chaos Knight",
+      "Sand King",
+      "Juggernaut"
+    ]
+  },
+  {
+    "match": "1577402647",
+    "team": "Dire Victory",
+    "heroes": [
+      "Pugna",
+      "Slark",
+      "Magnus",
+      "Mirana",
+      "Skywrath Mage",
+      "Wraith King",
+      "Templar Assassin",
+      "Undying",
+      "Necrophos",
+      "Techies"
+    ]
+  },
+  {
+    "match": "1577402422",
+    "team": "Dire Victory",
+    "heroes": [
+      "Witch Doctor",
+      "Vengeful Spirit",
+      "Io",
+      "Ancient Apparition",
+      "Anti-Mage",
+      "Timbersaw",
+      "Centaur Warrunner",
+      "Batrider",
+      "Venomancer",
+      "Death Prophet"
+    ]
+  },
+  {
+    "match": "1577402271",
+    "team": "Dire Victory",
+    "heroes": [
+      "Invoker",
+      "Pudge",
+      "Mirana",
+      "Sven",
+      "Faceless Void",
+      "Shadow Fiend",
+      "Phantom Assassin",
+      "Lion",
+      "Undying",
+      "Weaver"
+    ]
+  },
+  {
+    "match": "1577402228",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Leshrac",
+      "Centaur Warrunner",
+      "Abaddon",
+      "Bloodseeker",
+      "Crystal Maiden",
+      "Phantom Lancer",
+      "Slardar",
+      "Dragon Knight",
+      "Huskar",
+      "Dazzle"
+    ]
+  },
+  {
+    "match": "1577402164",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Drow Ranger",
+      "Lina",
+      "Juggernaut",
+      "Spectre",
+      "Riki",
+      "Keeper of the Light",
+      "Phantom Lancer",
+      "Sniper",
+      "Storm Spirit",
+      "Ember Spirit"
+    ]
+  },
+  {
+    "match": "1577402048",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Luna",
+      "Queen of Pain",
+      "Windranger",
+      "Slark",
+      "Sven",
+      "Vengeful Spirit",
+      "Undying",
+      "Legion Commander",
+      "Anti-Mage",
+      "Bounty Hunter"
+    ]
+  },
+  {
+    "match": "1577401950",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Slark",
+      "Riki",
+      "Tinker",
+      "Lion",
+      "Phantom Lancer",
+      "Puck",
+      "Enigma",
+      "Crystal Maiden",
+      "Templar Assassin",
+      "Phantom Assassin"
+    ]
+  },
+  {
+    "match": "1577401907",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Phantom Assassin",
+      "Spirit Breaker",
+      "Centaur Warrunner",
+      "Anti-Mage",
+      "Pudge",
+      "Disruptor",
+      "Bane",
+      "Medusa",
+      "Brewmaster",
+      "Drow Ranger"
+    ]
+  },
+  {
+    "match": "1577401903",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Morphling",
+      "Elder Titan",
+      "Shadow Shaman",
+      "Magnus",
+      "Ursa",
+      "Juggernaut",
+      "Nyx Assassin",
+      "Bounty Hunter",
+      "Nature's Prophet",
+      "Earthshaker"
+    ]
+  },
+  {
+    "match": "1577401899",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Sniper",
+      "Invoker",
+      "Earth Spirit",
+      "Pudge",
+      "Ursa",
+      "Enigma",
+      "Shadow Fiend",
+      "Legion Commander",
+      "Sven",
+      "Bounty Hunter"
+    ]
+  },
+  {
+    "match": "1577401719",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Gyrocopter",
+      "Tiny",
+      "Lich",
+      "Wraith King",
+      "Bloodseeker",
+      "Leshrac",
+      "Lifestealer",
+      "Lion",
+      "Doom",
+      "Phantom Assassin"
+    ]
+  }
+,
+  {
+    "match": "1577417955",
+    "team": "Dire Victory",
+    "heroes": [
+      "Huskar",
+      "Sniper",
+      "Drow Ranger",
+      "Sven",
+      "Pudge",
       "Troll Warlord",
       "Phantom Assassin",
-      "Ember Spirit",
-      "Storm Spirit",
+      "Legion Commander",
+      "Ogre Magi",
+      "Axe"
+    ]
+  },
+  {
+    "match": "1577417912",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Bounty Hunter",
+      "Pudge",
+      "Huskar",
+      "Zeus",
+      "Vengeful Spirit",
+      "Doom",
+      "Keeper of the Light",
+      "Phantom Assassin",
+      "Axe",
+      "Magnus"
+    ]
+  },
+  {
+    "match": "1577417874",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Phantom Lancer",
+      "Drow Ranger",
+      "Mirana",
+      "Lifestealer",
+      "Brewmaster",
+      "Silencer",
+      "Phantom Assassin",
+      "Witch Doctor",
+      "Juggernaut",
+      "Chaos Knight"
+    ]
+  },
+  {
+    "match": "1577417801",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Razor",
+      "Death Prophet",
+      "Kunkka",
+      "Juggernaut",
+      "Drow Ranger",
+      "Anti-Mage",
+      "Pugna",
+      "Ogre Magi",
+      "Clockwerk",
+      "Visage"
+    ]
+  },
+  {
+    "match": "1577417739",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Spirit Breaker",
+      "Crystal Maiden",
+      "Axe",
+      "Weaver",
+      "Razor",
+      "Windranger",
+      "Bloodseeker",
+      "Shadow Fiend",
+      "Juggernaut",
+      "Viper"
+    ]
+  },
+  {
+    "match": "1577417647",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Shadow Shaman",
+      "Luna",
+      "Weaver",
+      "Doom",
+      "Pudge",
+      "Phantom Lancer",
+      "Axe",
+      "Crystal Maiden",
+      "Techies",
+      "Invoker"
+    ]
+  },
+  {
+    "match": "1577417507",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Razor",
+      "Luna",
+      "Spirit Breaker",
+      "Keeper of the Light",
+      "Phantom Lancer",
+      "Sniper",
+      "Drow Ranger",
+      "Bristleback",
+      "Disruptor",
+      "Troll Warlord"
+    ]
+  },
+  {
+    "match": "1577417430",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Witch Doctor",
+      "Lion",
+      "Gyrocopter",
+      "Shadow Shaman",
+      "Sand King",
+      "Doom",
+      "Queen of Pain",
+      "Templar Assassin",
+      "Shadow Fiend",
+      "Juggernaut"
+    ]
+  },
+  {
+    "match": "1577417285",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Crystal Maiden",
+      "Sven",
+      "Faceless Void",
+      "Pudge",
+      "Huskar",
+      "Bloodseeker",
+      "Oracle",
+      "Venomancer",
+      "Spirit Breaker",
+      "Kunkka"
+    ]
+  },
+  {
+    "match": "1577417253",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Lion",
+      "Outworld Devourer",
+      "Phantom Assassin",
+      "Witch Doctor",
+      "Drow Ranger",
+      "Lina",
+      "Pudge",
+      "Spirit Breaker",
+      "Anti-Mage",
+      "Chaos Knight"
+    ]
+  },
+  {
+    "match": "1577417174",
+    "team": "Dire Victory",
+    "heroes": [
+      "Axe",
+      "Phantom Lancer",
+      "Shadow Shaman",
+      "Death Prophet",
+      "Zeus",
+      "Invoker",
+      "Sniper",
+      "Omniknight",
+      "Slark",
+      "Huskar"
+    ]
+  },
+  {
+    "match": "1577417169",
+    "team": "Dire Victory",
+    "heroes": [
+      "Tidehunter",
+      "Luna",
+      "Riki",
+      "Juggernaut",
+      "Kunkka",
+      "Keeper of the Light",
+      "Slark",
+      "Enigma",
+      "Lion",
+      "Batrider"
+    ]
+  },
+  {
+    "match": "1577417133",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Ursa",
       "Clinkz",
+      "Phantom Lancer",
+      "Anti-Mage",
+      "Witch Doctor",
+      "Bloodseeker",
+      "Jakiro",
+      "Huskar",
+      "Storm Spirit",
+      "Lich"
+    ]
+  },
+  {
+    "match": "1577416921",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Troll Warlord",
+      "Queen of Pain",
+      "Crystal Maiden",
+      "Spirit Breaker",
+      "Lich",
+      "Meepo",
+      "Viper",
+      "Huskar",
+      "Earthshaker",
+      "Drow Ranger"
+    ]
+  },
+  {
+    "match": "1577416894",
+    "team": "Dire Victory",
+    "heroes": [
+      "Techies",
+      "Tusk",
+      "Morphling",
+      "Lycan",
+      "Phoenix",
+      "Razor",
+      "Abaddon",
+      "Ember Spirit",
+      "Huskar",
+      "Sven"
+    ]
+  },
+  {
+    "match": "1577416742",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Ursa",
+      "Centaur Warrunner",
+      "Necrophos",
+      "Faceless Void",
+      "Pudge",
+      "Slark",
+      "Sven",
+      "Troll Warlord",
+      "Earthshaker",
       "Sniper"
     ]
   },
   {
-    "match": "1577393659",
-    "team": "Radiant Victory",
+    "match": "1577416718",
+    "team": "Dire Victory",
     "heroes": [
-      "Io",
-      "Chen",
-      "Spirit Breaker",
-      "Elder Titan",
-      "Omniknight",
-      "Pudge",
-      "Storm Spirit",
+      "Phantom Lancer",
+      "Centaur Warrunner",
       "Shadow Shaman",
-      "Templar Assassin",
-      "Gyrocopter"
+      "Juggernaut",
+      "Phantom Assassin",
+      "Huskar",
+      "Wraith King",
+      "Omniknight",
+      "Terrorblade",
+      "Drow Ranger"
     ]
   },
   {
-    "match": "1577393620",
+    "match": "1577416668",
     "team": "Radiant Victory",
     "heroes": [
-      "Juggernaut",
-      "Sniper",
-      "Phantom Assassin",
-      "Windranger",
-      "Huskar",
+      "Drow Ranger",
+      "Winter Wyvern",
+      "Sand King",
+      "Pudge",
+      "Enchantress",
+      "Viper",
+      "Phantom Lancer",
+      "Storm Spirit",
+      "Nyx Assassin",
+      "Legion Commander"
+    ]
+  },
+  {
+    "match": "1577416522",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Keeper of the Light",
+      "Dragon Knight",
+      "Phantom Lancer",
+      "Weaver",
+      "Lion",
+      "Meepo",
+      "Magnus",
+      "Earthshaker",
+      "Nature's Prophet",
+      "Medusa"
+    ]
+  },
+  {
+    "match": "1577416513",
+    "team": "Dire Victory",
+    "heroes": [
+      "Lion",
+      "Timbersaw",
+      "Nature's Prophet",
+      "Alchemist",
       "Lina",
+      "Mirana",
+      "Legion Commander",
+      "Pudge",
+      "Leshrac",
+      "Magnus"
+    ]
+  },
+  {
+    "match": "1577416506",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Tinker",
+      "Bloodseeker",
+      "Vengeful Spirit",
+      "Undying",
+      "Silencer",
+      "Axe",
+      "Slark",
+      "Phantom Assassin",
+      "Abaddon",
+      "Dragon Knight"
+    ]
+  },
+  {
+    "match": "1577416504",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Drow Ranger",
+      "Sniper",
+      "Axe",
       "Slardar",
+      "Wraith King",
       "Troll Warlord",
-      "Riki",
-      "Leshrac"
+      "Earthshaker",
+      "Timbersaw",
+      "Slark",
+      "Riki"
+    ]
+  },
+  {
+    "match": "1577416424",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Tusk",
+      "Timbersaw",
+      "Earthshaker",
+      "Bloodseeker",
+      "Necrophos",
+      "Spirit Breaker",
+      "Phantom Assassin",
+      "Sniper",
+      "Weaver",
+      "Nature's Prophet"
+    ]
+  },
+  {
+    "match": "1577416324",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Death Prophet",
+      "Zeus",
+      "Legion Commander",
+      "Oracle",
+      "Leshrac",
+      "Magnus",
+      "Outworld Devourer",
+      "Treant Protector",
+      "Io",
+      "Dark Seer"
+    ]
+  },
+  {
+    "match": "1577416311",
+    "team": "Radiant Victory",
+    "heroes": [
+      "Puck",
+      "Windranger",
+      "Sniper",
+      "Night Stalker",
+      "Ogre Magi",
+      "Tiny",
+      "Gyrocopter",
+      "Magnus",
+      "Dragon Knight",
+      "Lina"
     ]
   }
 ,

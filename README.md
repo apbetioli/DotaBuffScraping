@@ -6,6 +6,6 @@ NodeJS code for DotaBuff scraping
 
 ```
 npm install
-node scrap.js
+node heroes.js
 node matches.js
 ```

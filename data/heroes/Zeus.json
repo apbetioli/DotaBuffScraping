@@ -1,661 +1,661 @@
 {
     "name": "Zeus",
-    "img": "https://dotabuff-cdn.a.ssl.fastly.net/assets/heroes/zeus-fd5f771fbcb183020fb2fecf301a6d25841db7fc7bee494852c92c539628eb0d.png",
+    "img": "http://cdn.dotabuff.net/assets/heroes/zeus-fd5f771fbcb183020fb2fecf301a6d25841db7fc7bee494852c92c539628eb0d.png",
     "link": "http://dotabuff.com/heroes/zeus",
     "matchups": [
         {
             "hero": "Phantom Lancer",
-            "advantage": "2.60%",
+            "advantage": "2.61%",
             "winrate": "57.84%",
-            "matchesplayed": "303,249"
+            "matchesplayed": "305,528"
         },
         {
             "hero": "Crystal Maiden",
             "advantage": "2.13%",
             "winrate": "53.40%",
-            "matchesplayed": "300,244"
+            "matchesplayed": "302,483"
         },
         {
             "hero": "Slardar",
-            "advantage": "2.05%",
-            "winrate": "54.73%",
-            "matchesplayed": "213,333"
+            "advantage": "2.04%",
+            "winrate": "54.72%",
+            "matchesplayed": "214,974"
         },
         {
             "hero": "Luna",
-            "advantage": "1.95%",
-            "winrate": "56.93%",
-            "matchesplayed": "164,276"
+            "advantage": "1.96%",
+            "winrate": "56.95%",
+            "matchesplayed": "165,450"
         },
         {
             "hero": "Weaver",
             "advantage": "1.93%",
             "winrate": "60.67%",
-            "matchesplayed": "181,214"
+            "matchesplayed": "182,558"
         },
         {
             "hero": "Sand King",
             "advantage": "1.92%",
-            "winrate": "60.95%",
-            "matchesplayed": "243,614"
+            "winrate": "60.96%",
+            "matchesplayed": "245,453"
         },
         {
             "hero": "Leshrac",
             "advantage": "1.64%",
-            "winrate": "53.19%",
-            "matchesplayed": "248,100"
+            "winrate": "53.18%",
+            "matchesplayed": "250,292"
         },
         {
             "hero": "Gyrocopter",
-            "advantage": "1.62%",
+            "advantage": "1.61%",
             "winrate": "58.47%",
-            "matchesplayed": "237,832"
+            "matchesplayed": "239,527"
         },
         {
             "hero": "Earthshaker",
-            "advantage": "1.60%",
-            "winrate": "55.20%",
-            "matchesplayed": "493,027"
+            "advantage": "1.61%",
+            "winrate": "55.21%",
+            "matchesplayed": "497,096"
         },
         {
             "hero": "Mirana",
-            "advantage": "1.53%",
-            "winrate": "57.90%",
-            "matchesplayed": "330,553"
+            "advantage": "1.54%",
+            "winrate": "57.91%",
+            "matchesplayed": "333,320"
         },
         {
             "hero": "Venomancer",
-            "advantage": "1.51%",
-            "winrate": "56.18%",
-            "matchesplayed": "119,678"
+            "advantage": "1.50%",
+            "winrate": "56.17%",
+            "matchesplayed": "120,575"
         },
         {
             "hero": "Shadow Fiend",
             "advantage": "1.31%",
-            "winrate": "57.51%",
-            "matchesplayed": "524,763"
+            "winrate": "57.52%",
+            "matchesplayed": "528,810"
         },
         {
             "hero": "Naga Siren",
             "advantage": "1.16%",
-            "winrate": "63.97%",
-            "matchesplayed": "73,238"
+            "winrate": "63.98%",
+            "matchesplayed": "73,806"
         },
         {
             "hero": "Axe",
             "advantage": "1.13%",
             "winrate": "61.75%",
-            "matchesplayed": "375,995"
+            "matchesplayed": "378,653"
         },
         {
             "hero": "Enigma",
-            "advantage": "1.07%",
+            "advantage": "1.06%",
             "winrate": "56.60%",
-            "matchesplayed": "131,126"
+            "matchesplayed": "132,040"
         },
         {
             "hero": "Centaur Warrunner",
             "advantage": "0.90%",
             "winrate": "54.72%",
-            "matchesplayed": "139,807"
+            "matchesplayed": "140,841"
         },
         {
             "hero": "Timbersaw",
-            "advantage": "0.88%",
-            "winrate": "62.98%",
-            "matchesplayed": "126,640"
+            "advantage": "0.87%",
+            "winrate": "62.97%",
+            "matchesplayed": "127,575"
         },
         {
             "hero": "Bloodseeker",
             "advantage": "0.73%",
             "winrate": "53.88%",
-            "matchesplayed": "418,422"
+            "matchesplayed": "422,188"
         },
         {
             "hero": "Omniknight",
             "advantage": "0.67%",
             "winrate": "45.93%",
-            "matchesplayed": "189,364"
+            "matchesplayed": "190,829"
         },
         {
             "hero": "Tiny",
-            "advantage": "0.64%",
+            "advantage": "0.63%",
             "winrate": "59.27%",
-            "matchesplayed": "247,831"
+            "matchesplayed": "249,727"
         },
         {
             "hero": "Jakiro",
             "advantage": "0.63%",
             "winrate": "55.73%",
-            "matchesplayed": "100,405"
+            "matchesplayed": "101,135"
         },
         {
             "hero": "Dark Seer",
             "advantage": "0.62%",
             "winrate": "56.64%",
-            "matchesplayed": "92,030"
+            "matchesplayed": "92,729"
         },
         {
             "hero": "Tidehunter",
-            "advantage": "0.60%",
-            "winrate": "56.49%",
-            "matchesplayed": "184,644"
+            "advantage": "0.59%",
+            "winrate": "56.48%",
+            "matchesplayed": "186,068"
         },
         {
             "hero": "Queen of Pain",
             "advantage": "0.51%",
             "winrate": "62.17%",
-            "matchesplayed": "396,127"
+            "matchesplayed": "399,088"
         },
         {
             "hero": "Riki",
             "advantage": "0.41%",
-            "winrate": "53.81%",
-            "matchesplayed": "441,264"
+            "winrate": "53.82%",
+            "matchesplayed": "444,420"
         },
         {
             "hero": "Necrophos",
-            "advantage": "0.31%",
+            "advantage": "0.30%",
             "winrate": "50.30%",
-            "matchesplayed": "310,094"
+            "matchesplayed": "312,576"
         },
         {
             "hero": "Ancient Apparition",
             "advantage": "0.29%",
             "winrate": "58.73%",
-            "matchesplayed": "120,510"
+            "matchesplayed": "121,432"
         },
         {
             "hero": "Lich",
-            "advantage": "0.28%",
+            "advantage": "0.29%",
             "winrate": "53.45%",
-            "matchesplayed": "178,812"
+            "matchesplayed": "180,126"
         },
         {
             "hero": "Lina",
-            "advantage": "0.25%",
+            "advantage": "0.24%",
             "winrate": "60.81%",
-            "matchesplayed": "424,229"
+            "matchesplayed": "427,588"
         },
         {
             "hero": "Abaddon",
             "advantage": "0.23%",
-            "winrate": "47.24%",
-            "matchesplayed": "152,896"
-        },
-        {
-            "hero": "Shadow Shaman",
-            "advantage": "0.19%",
-            "winrate": "54.78%",
-            "matchesplayed": "156,173"
+            "winrate": "47.25%",
+            "matchesplayed": "154,088"
         },
         {
             "hero": "Terrorblade",
-            "advantage": "0.18%",
-            "winrate": "63.13%",
-            "matchesplayed": "80,563"
+            "advantage": "0.20%",
+            "winrate": "63.14%",
+            "matchesplayed": "81,149"
         },
         {
             "hero": "Disruptor",
             "advantage": "0.17%",
-            "winrate": "55.65%",
-            "matchesplayed": "143,589"
+            "winrate": "55.66%",
+            "matchesplayed": "144,645"
+        },
+        {
+            "hero": "Shadow Shaman",
+            "advantage": "0.17%",
+            "winrate": "54.77%",
+            "matchesplayed": "157,293"
         },
         {
             "hero": "Ogre Magi",
-            "advantage": "0.11%",
+            "advantage": "0.12%",
             "winrate": "55.30%",
-            "matchesplayed": "198,427"
+            "matchesplayed": "199,953"
         },
         {
             "hero": "Winter Wyvern",
             "advantage": "0.07%",
             "winrate": "58.09%",
-            "matchesplayed": "94,314"
+            "matchesplayed": "95,151"
         },
         {
             "hero": "Outworld Devourer",
-            "advantage": "0.05%",
-            "winrate": "65.22%",
-            "matchesplayed": "93,402"
+            "advantage": "0.06%",
+            "winrate": "65.24%",
+            "matchesplayed": "94,081"
         },
         {
             "hero": "Dazzle",
-            "advantage": "0.02%",
+            "advantage": "0.03%",
             "winrate": "53.76%",
-            "matchesplayed": "143,467"
+            "matchesplayed": "144,576"
         },
         {
             "hero": "Undying",
-            "advantage": "0.02%",
-            "winrate": "48.56%",
-            "matchesplayed": "247,681"
+            "advantage": "0.01%",
+            "winrate": "48.55%",
+            "matchesplayed": "249,543"
         },
         {
             "hero": "Vengeful Spirit",
             "advantage": "-0.02%",
             "winrate": "53.99%",
-            "matchesplayed": "231,659"
+            "matchesplayed": "233,298"
         },
         {
             "hero": "Brewmaster",
-            "advantage": "-0.06%",
-            "winrate": "58.13%",
-            "matchesplayed": "68,120"
+            "advantage": "-0.05%",
+            "winrate": "58.15%",
+            "matchesplayed": "68,546"
         },
         {
             "hero": "Magnus",
-            "advantage": "-0.07%",
+            "advantage": "-0.08%",
             "winrate": "62.85%",
-            "matchesplayed": "171,597"
+            "matchesplayed": "172,814"
         },
         {
             "hero": "Nyx Assassin",
-            "advantage": "-0.08%",
-            "winrate": "61.53%",
-            "matchesplayed": "172,132"
+            "advantage": "-0.09%",
+            "winrate": "61.52%",
+            "matchesplayed": "173,336"
         },
         {
             "hero": "Windranger",
             "advantage": "-0.13%",
             "winrate": "58.42%",
-            "matchesplayed": "632,272"
+            "matchesplayed": "637,220"
         },
         {
             "hero": "Clockwerk",
-            "advantage": "-0.19%",
-            "winrate": "56.75%",
-            "matchesplayed": "194,036"
+            "advantage": "-0.20%",
+            "winrate": "56.74%",
+            "matchesplayed": "195,485"
         },
         {
             "hero": "Phantom Assassin",
             "advantage": "-0.21%",
             "winrate": "57.28%",
-            "matchesplayed": "556,874"
+            "matchesplayed": "560,888"
         },
         {
             "hero": "Medusa",
-            "advantage": "-0.27%",
-            "winrate": "53.85%",
-            "matchesplayed": "144,120"
+            "advantage": "-0.28%",
+            "winrate": "53.83%",
+            "matchesplayed": "145,334"
         },
         {
             "hero": "Silencer",
-            "advantage": "-0.31%",
-            "winrate": "52.15%",
-            "matchesplayed": "271,662"
+            "advantage": "-0.33%",
+            "winrate": "52.13%",
+            "matchesplayed": "273,910"
         },
         {
             "hero": "Troll Warlord",
-            "advantage": "-0.41%",
+            "advantage": "-0.42%",
             "winrate": "57.34%",
-            "matchesplayed": "196,258"
+            "matchesplayed": "197,554"
         },
         {
             "hero": "Spectre",
-            "advantage": "-0.43%",
+            "advantage": "-0.42%",
             "winrate": "48.31%",
-            "matchesplayed": "186,138"
+            "matchesplayed": "187,648"
         },
         {
             "hero": "Night Stalker",
             "advantage": "-0.43%",
-            "winrate": "56.43%",
-            "matchesplayed": "132,810"
+            "winrate": "56.44%",
+            "matchesplayed": "133,696"
         },
         {
             "hero": "Keeper of the Light",
-            "advantage": "-0.44%",
-            "winrate": "56.93%",
-            "matchesplayed": "118,765"
+            "advantage": "-0.46%",
+            "winrate": "56.92%",
+            "matchesplayed": "119,729"
         },
         {
             "hero": "Tusk",
             "advantage": "-0.47%",
-            "winrate": "57.88%",
-            "matchesplayed": "213,083"
+            "winrate": "57.89%",
+            "matchesplayed": "215,306"
         },
         {
             "hero": "Beastmaster",
             "advantage": "-0.49%",
             "winrate": "57.23%",
-            "matchesplayed": "66,208"
+            "matchesplayed": "66,647"
         },
         {
             "hero": "Kunkka",
-            "advantage": "-0.56%",
-            "winrate": "60.63%",
-            "matchesplayed": "165,156"
+            "advantage": "-0.55%",
+            "winrate": "60.64%",
+            "matchesplayed": "166,410"
         },
         {
             "hero": "Invoker",
             "advantage": "-0.56%",
             "winrate": "63.02%",
-            "matchesplayed": "396,102"
+            "matchesplayed": "398,992"
         },
         {
             "hero": "Elder Titan",
-            "advantage": "-0.57%",
-            "winrate": "56.24%",
-            "matchesplayed": "50,151"
+            "advantage": "-0.60%",
+            "winrate": "56.21%",
+            "matchesplayed": "50,508"
         },
         {
             "hero": "Witch Doctor",
             "advantage": "-0.61%",
             "winrate": "52.86%",
-            "matchesplayed": "332,543"
+            "matchesplayed": "335,127"
         },
         {
             "hero": "Enchantress",
-            "advantage": "-0.63%",
-            "winrate": "63.45%",
-            "matchesplayed": "80,315"
+            "advantage": "-0.62%",
+            "winrate": "63.46%",
+            "matchesplayed": "80,890"
         },
         {
             "hero": "Nature's Prophet",
-            "advantage": "-0.67%",
+            "advantage": "-0.68%",
             "winrate": "63.62%",
-            "matchesplayed": "202,545"
+            "matchesplayed": "204,053"
         },
         {
             "hero": "Spirit Breaker",
             "advantage": "-0.69%",
-            "winrate": "52.91%",
-            "matchesplayed": "409,818"
+            "winrate": "52.90%",
+            "matchesplayed": "412,947"
         },
         {
             "hero": "Warlock",
             "advantage": "-0.72%",
-            "winrate": "50.66%",
-            "matchesplayed": "137,628"
+            "winrate": "50.67%",
+            "matchesplayed": "138,632"
         },
         {
             "hero": "Techies",
             "advantage": "-0.72%",
             "winrate": "53.61%",
-            "matchesplayed": "401,363"
+            "matchesplayed": "405,175"
         },
         {
             "hero": "Chaos Knight",
             "advantage": "-0.73%",
-            "winrate": "54.00%",
-            "matchesplayed": "139,327"
-        },
-        {
-            "hero": "Puck",
-            "advantage": "-0.77%",
-            "winrate": "65.96%",
-            "matchesplayed": "138,397"
+            "winrate": "54.01%",
+            "matchesplayed": "140,318"
         },
         {
             "hero": "Bristleback",
-            "advantage": "-0.77%",
-            "winrate": "58.28%",
-            "matchesplayed": "266,506"
+            "advantage": "-0.76%",
+            "winrate": "58.30%",
+            "matchesplayed": "268,483"
+        },
+        {
+            "hero": "Puck",
+            "advantage": "-0.76%",
+            "winrate": "65.98%",
+            "matchesplayed": "139,317"
         },
         {
             "hero": "Doom",
-            "advantage": "-0.78%",
-            "winrate": "61.38%",
-            "matchesplayed": "133,108"
-        },
-        {
-            "hero": "Treant Protector",
-            "advantage": "-0.80%",
-            "winrate": "54.94%",
-            "matchesplayed": "86,205"
+            "advantage": "-0.79%",
+            "winrate": "61.36%",
+            "matchesplayed": "134,133"
         },
         {
             "hero": "Bane",
             "advantage": "-0.80%",
             "winrate": "62.43%",
-            "matchesplayed": "79,516"
+            "matchesplayed": "80,044"
+        },
+        {
+            "hero": "Treant Protector",
+            "advantage": "-0.81%",
+            "winrate": "54.93%",
+            "matchesplayed": "86,802"
+        },
+        {
+            "hero": "Morphling",
+            "advantage": "-0.83%",
+            "winrate": "65.34%",
+            "matchesplayed": "96,108"
         },
         {
             "hero": "Slark",
             "advantage": "-0.84%",
             "winrate": "55.37%",
-            "matchesplayed": "408,085"
-        },
-        {
-            "hero": "Morphling",
-            "advantage": "-0.85%",
-            "winrate": "65.32%",
-            "matchesplayed": "95,492"
+            "matchesplayed": "411,233"
         },
         {
             "hero": "Dragon Knight",
             "advantage": "-0.91%",
             "winrate": "55.84%",
-            "matchesplayed": "210,381"
+            "matchesplayed": "211,918"
         },
         {
             "hero": "Ursa",
             "advantage": "-0.95%",
             "winrate": "47.12%",
-            "matchesplayed": "293,314"
+            "matchesplayed": "295,309"
         },
         {
             "hero": "Lone Druid",
             "advantage": "-1.02%",
             "winrate": "65.65%",
-            "matchesplayed": "67,631"
+            "matchesplayed": "68,098"
+        },
+        {
+            "hero": "Shadow Demon",
+            "advantage": "-1.02%",
+            "winrate": "64.62%",
+            "matchesplayed": "72,220"
         },
         {
             "hero": "Skywrath Mage",
             "advantage": "-1.02%",
-            "winrate": "62.12%",
-            "matchesplayed": "154,357"
-        },
-        {
-            "hero": "Shadow Demon",
-            "advantage": "-1.03%",
-            "winrate": "64.60%",
-            "matchesplayed": "71,698"
+            "winrate": "62.13%",
+            "matchesplayed": "155,528"
         },
         {
             "hero": "Sven",
             "advantage": "-1.11%",
             "winrate": "53.59%",
-            "matchesplayed": "302,724"
+            "matchesplayed": "304,960"
         },
         {
             "hero": "Broodmother",
             "advantage": "-1.12%",
-            "winrate": "63.10%",
-            "matchesplayed": "101,403"
+            "winrate": "63.11%",
+            "matchesplayed": "102,103"
         },
         {
             "hero": "Clinkz",
-            "advantage": "-1.15%",
-            "winrate": "61.72%",
-            "matchesplayed": "159,758"
+            "advantage": "-1.16%",
+            "winrate": "61.70%",
+            "matchesplayed": "161,091"
         },
         {
             "hero": "Legion Commander",
             "advantage": "-1.17%",
-            "winrate": "57.92%",
-            "matchesplayed": "291,540"
+            "winrate": "57.93%",
+            "matchesplayed": "293,795"
         },
         {
             "hero": "Sniper",
             "advantage": "-1.17%",
             "winrate": "58.39%",
-            "matchesplayed": "629,418"
+            "matchesplayed": "634,075"
         },
         {
             "hero": "Bounty Hunter",
-            "advantage": "-1.19%",
+            "advantage": "-1.18%",
             "winrate": "59.59%",
-            "matchesplayed": "497,572"
+            "matchesplayed": "501,294"
         },
         {
             "hero": "Lion",
-            "advantage": "-1.23%",
-            "winrate": "58.11%",
-            "matchesplayed": "402,694"
+            "advantage": "-1.22%",
+            "winrate": "58.12%",
+            "matchesplayed": "405,610"
         },
         {
             "hero": "Tinker",
             "advantage": "-1.28%",
             "winrate": "63.94%",
-            "matchesplayed": "200,899"
+            "matchesplayed": "202,326"
         },
         {
             "hero": "Pugna",
-            "advantage": "-1.32%",
-            "winrate": "58.06%",
-            "matchesplayed": "143,998"
-        },
-        {
-            "hero": "Batrider",
-            "advantage": "-1.43%",
-            "winrate": "66.82%",
-            "matchesplayed": "60,734"
+            "advantage": "-1.33%",
+            "winrate": "58.05%",
+            "matchesplayed": "145,121"
         },
         {
             "hero": "Death Prophet",
             "advantage": "-1.43%",
             "winrate": "58.62%",
-            "matchesplayed": "152,476"
+            "matchesplayed": "153,581"
+        },
+        {
+            "hero": "Batrider",
+            "advantage": "-1.46%",
+            "winrate": "66.80%",
+            "matchesplayed": "61,136"
         },
         {
             "hero": "Lycan",
             "advantage": "-1.47%",
             "winrate": "55.75%",
-            "matchesplayed": "89,641"
+            "matchesplayed": "90,259"
         },
         {
             "hero": "Phoenix",
-            "advantage": "-1.74%",
-            "winrate": "54.96%",
-            "matchesplayed": "98,411"
+            "advantage": "-1.73%",
+            "winrate": "54.97%",
+            "matchesplayed": "99,185"
         },
         {
             "hero": "Faceless Void",
-            "advantage": "-1.78%",
+            "advantage": "-1.79%",
             "winrate": "57.50%",
-            "matchesplayed": "297,579"
+            "matchesplayed": "299,709"
         },
         {
             "hero": "Razor",
-            "advantage": "-2.03%",
-            "winrate": "56.90%",
-            "matchesplayed": "183,510"
+            "advantage": "-2.02%",
+            "winrate": "56.91%",
+            "matchesplayed": "184,923"
         },
         {
             "hero": "Rubick",
             "advantage": "-2.11%",
             "winrate": "61.35%",
-            "matchesplayed": "245,538"
+            "matchesplayed": "247,489"
         },
         {
             "hero": "Drow Ranger",
             "advantage": "-2.18%",
             "winrate": "54.25%",
-            "matchesplayed": "407,823"
-        },
-        {
-            "hero": "Storm Spirit",
-            "advantage": "-2.19%",
-            "winrate": "56.69%",
-            "matchesplayed": "388,057"
+            "matchesplayed": "410,718"
         },
         {
             "hero": "Visage",
-            "advantage": "-2.22%",
-            "winrate": "61.34%",
-            "matchesplayed": "43,134"
+            "advantage": "-2.20%",
+            "winrate": "61.36%",
+            "matchesplayed": "43,405"
+        },
+        {
+            "hero": "Storm Spirit",
+            "advantage": "-2.20%",
+            "winrate": "56.67%",
+            "matchesplayed": "391,525"
         },
         {
             "hero": "Pudge",
-            "advantage": "-2.25%",
+            "advantage": "-2.24%",
             "winrate": "54.64%",
-            "matchesplayed": "722,734"
+            "matchesplayed": "728,219"
         },
         {
             "hero": "Oracle",
-            "advantage": "-2.26%",
-            "winrate": "68.38%",
-            "matchesplayed": "50,698"
+            "advantage": "-2.28%",
+            "winrate": "68.36%",
+            "matchesplayed": "51,031"
         },
         {
             "hero": "Ember Spirit",
-            "advantage": "-2.31%",
-            "winrate": "62.55%",
-            "matchesplayed": "160,619"
+            "advantage": "-2.32%",
+            "winrate": "62.54%",
+            "matchesplayed": "161,769"
         },
         {
             "hero": "Earth Spirit",
-            "advantage": "-2.64%",
-            "winrate": "62.12%",
-            "matchesplayed": "83,832"
+            "advantage": "-2.65%",
+            "winrate": "62.11%",
+            "matchesplayed": "84,459"
         },
         {
             "hero": "Templar Assassin",
-            "advantage": "-2.83%",
-            "winrate": "57.34%",
-            "matchesplayed": "179,960"
+            "advantage": "-2.85%",
+            "winrate": "57.32%",
+            "matchesplayed": "181,271"
         },
         {
             "hero": "Wraith King",
-            "advantage": "-2.98%",
-            "winrate": "47.28%",
-            "matchesplayed": "305,273"
+            "advantage": "-2.97%",
+            "winrate": "47.30%",
+            "matchesplayed": "307,590"
         },
         {
             "hero": "Io",
             "advantage": "-3.03%",
-            "winrate": "65.29%",
-            "matchesplayed": "67,000"
+            "winrate": "65.30%",
+            "matchesplayed": "67,413"
         },
         {
             "hero": "Viper",
             "advantage": "-3.15%",
             "winrate": "53.27%",
-            "matchesplayed": "313,282"
+            "matchesplayed": "315,538"
         },
         {
             "hero": "Chen",
-            "advantage": "-3.34%",
-            "winrate": "61.22%",
-            "matchesplayed": "41,509"
+            "advantage": "-3.36%",
+            "winrate": "61.21%",
+            "matchesplayed": "41,784"
         },
         {
             "hero": "Alchemist",
-            "advantage": "-3.45%",
-            "winrate": "64.54%",
-            "matchesplayed": "164,913"
+            "advantage": "-3.43%",
+            "winrate": "64.56%",
+            "matchesplayed": "166,062"
         },
         {
             "hero": "Juggernaut",
-            "advantage": "-3.51%",
-            "winrate": "54.30%",
-            "matchesplayed": "537,709"
+            "advantage": "-3.52%",
+            "winrate": "54.29%",
+            "matchesplayed": "541,748"
         },
         {
             "hero": "Meepo",
-            "advantage": "-3.68%",
-            "winrate": "59.11%",
-            "matchesplayed": "88,658"
+            "advantage": "-3.66%",
+            "winrate": "59.14%",
+            "matchesplayed": "89,293"
         },
         {
             "hero": "Anti-Mage",
-            "advantage": "-4.55%",
+            "advantage": "-4.54%",
             "winrate": "57.71%",
-            "matchesplayed": "308,838"
+            "matchesplayed": "311,383"
         },
         {
             "hero": "Lifestealer",
-            "advantage": "-4.61%",
-            "winrate": "55.03%",
-            "matchesplayed": "188,327"
+            "advantage": "-4.62%",
+            "winrate": "55.04%",
+            "matchesplayed": "189,611"
         },
         {
             "hero": "Huskar",
             "advantage": "-7.63%",
-            "winrate": "50.52%",
-            "matchesplayed": "270,824"
+            "winrate": "50.53%",
+            "matchesplayed": "272,792"
         }
     ]
 }
