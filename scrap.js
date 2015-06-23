@@ -1,43 +1,62 @@
 var x = require('x-ray')();
+var fs = require('fs');
+var HashMap = require('hashmap');
 
-x('http://dotabuff.com/heroes', '.hero-grid a', [{
-	name: '.hero .name',
-	img: '.hero@style',
-	link: '@href',
-}])(function(err, objs) {
+var map = new HashMap();
 
+function handle(err) {
 	if(err) {
 		console.log(err);
 		throw err;
 	}
+};
 
-	for(i in objs) {
-		var obj = objs[i];
-		obj.img = obj.img.replace('background: url(', '').replace(')', '');
+x('http://dotabuff.com/heroes', '.hero-grid a', [{
+	name: '.hero .name',
+	img: '.hero@style',
+	link: '@href'
 
-		x(obj.link+'/matchups', '#page-content section article table tbody tr', [{
-			values: ['td']
-		}])(function (err, matchups) {
-			
-			var result = [];
+}])(function(err, heroes) {
+	handle(err);
+	
+	for(i in heroes) {
+		var hero = heroes[i];
+		hero.img = hero.img.replace('background: url(', '').replace(')', '');
+		hero.matchups = [];
 
-			for(i in matchups) {
+		map.set(hero.name, hero);
+
+ 		x(hero.link + '/matchups', 'body', [{
+			name : x('#container-header', 'img.image-avatar@alt'),
+			values: x('#page-content section article table tbody tr', [['td']])
+		  }])(function(err, matchups) {
+			handle(err);
+
+			var name = matchups[0].name;
+			var values = matchups[0].values;
+			for(k in values) {
+				var value = values[k];
 				var m = {
-					hero: matchups[i].values[1],
-					advantage: matchups[i].values[2],
-					winrate: matchups[i].values[3],
-					matchesplayed: matchups[i].values[4]
+					hero: value[1],
+					advantage: value[2],
+					winrate: value[3],
+					matchesplayed: value[4]
 				};
-				result.push(m);
-			};
-
-			obj.matchups =  result; //Não funciona
+				var current = map.get(name); 
+				current.matchups.push(m);
+				map.set(current.name, current);
+			}
+			
+			var json = JSON.stringify(map.get(name), null, 4);
+			fs.writeFile('heroes/' + name + '.json', json, function(err) {
+			    handle(err);
+			    console.log(name + ' Finished!');
+			}); 
+			
 		});
 
 	}
 
-	console.log(objs);
-
-})
+});
 
 
