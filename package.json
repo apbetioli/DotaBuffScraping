@@ -5,6 +5,7 @@
   "main"         : "index.js",
   "author"       : "apbetioli",
   "dependencies" : {
-    "x-ray"    : "latest"
+    "x-ray"    : "latest",
+    "brain"    : "latest"
   }
 }
