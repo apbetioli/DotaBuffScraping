@@ -5,10 +5,7 @@ var HashMap = require('hashmap');
 var map = new HashMap();
 
 function handle(err) {
-	if(err) {
-		console.log(err);
-		throw err;
-	}
+	if(err) { console.log(err); throw err; }
 };
 
 x('http://dotabuff.com/heroes', '.hero-grid a', [{
