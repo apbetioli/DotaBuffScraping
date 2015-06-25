@@ -1,11 +1,26 @@
 {
-  "name"         : "DotaBuffScraping",
-  "version"      : "0.0.1",
-  "description"  : ":)",
-  "main"         : "index.js",
-  "author"       : "apbetioli",
-  "dependencies" : {
-    "x-ray"    : "latest",
-    "brain"    : "latest"
-  }
+  "name": "DotaBuffScraping",
+  "version": "0.0.1",
+  "description": ":)",
+  "author": "Alexandre Betioli",
+  "main": "names.js",
+  "scripts": {
+    "start": "node names.js"
+  },
+  "dependencies": {
+    "x-ray": "latest"
+  },
+  "engines": {
+    "node": "0.12.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apbetioli/DotaBuffScraping.git"
+  },
+   "keywords": [
+    "dota 2",
+    "dota",
+    "dotabuff",
+	"scraping"
+  ]
 }
