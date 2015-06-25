@@ -1,7 +1,7 @@
 {
   "name": "DotaBuffScraping",
   "version": "0.0.1",
-  "description": ":)",
+  "description": "App for DotaBuff scraping",
   "author": "Alexandre Betioli",
   "main": "names.js",
   "scripts": {
