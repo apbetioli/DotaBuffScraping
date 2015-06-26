@@ -8,8 +8,8 @@
     "start": "node names.js"
   },
   "dependencies": {
-    "mongodb": "^1.4.38",
-    "mongoskin": "^1.4.13",
+    "config": "^1.14.0",
+    "mongojs": "latest",
     "request": "latest",
     "x-ray": "latest"
   },
