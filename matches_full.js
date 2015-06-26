@@ -2,6 +2,8 @@ var x = require('x-ray')();
 var fs = require('fs');
 var match = require('./match');
 
+var results = [];
+
 function handle(err) {
 	if(err) { console.log(err); throw err; }
 };
@@ -28,10 +30,10 @@ x('http://www.dotabuff.com/matches', 'tbody tr', [{
 		match(matches[i].match_id, i, function(err, data, index) {
 			handle(err);
 
-			matches[index].details = data;
-			
+			results.push(data);
+
 			if(index == matches.length-1) {
-				onFinish(matches);
+				onFinish(results);
 			}
 		});
 	}
