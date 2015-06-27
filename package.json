@@ -8,9 +8,6 @@
     "start": "node names.js"
   },
   "dependencies": {
-    "config": "^1.14.0",
-    "mongojs": "latest",
-    "request": "latest",
     "x-ray": "latest"
   },
   "engines": {
